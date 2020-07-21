@@ -3,7 +3,7 @@
 
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/osgood-gunawan-973a5993/)
 
-* ⚡ Fun fact: When I am free, you can find me playing basketball, chess, running, dancing, singing, cooking and reading entrepreneurship/tech related articles.Lastly Programming :wink:
+* ⚡ Fun fact: When I am free, you can find me playing basketball, chess, running, dancing, singing, cooking and reading entrepreneurship/tech related articles. Also don't forget Programming :wink:
  
 * 🌱 I’m currently learning algorithms, Data structures, System Design , React Ecosystem, and more...
 <!--
