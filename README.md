@@ -18,8 +18,10 @@
 * 🌱 I’m currently learning Algorithms, Data Structures, System Design , React Ecosystem, and more...
 
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <br>
 🏆 Github Status
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=osgood1024&show_icons=true&theme=radical)
 
