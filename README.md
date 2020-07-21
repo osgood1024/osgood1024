@@ -1,7 +1,8 @@
 ### Hi there, I am [Osgood](https://www.osgoodgunawan.me/) 👋
 
-**Full-Stack Software Engineer | Javascript | Ruby | React.js | Ruby on Rails**
+**Full-Stack Software Engineer | Javascript | Ruby | React.js | Ruby on Rails | Web Developer**
 
+🚀 About
 
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/osgood-gunawan-973a5993/)
 
