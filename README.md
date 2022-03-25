@@ -1,4 +1,4 @@
-### Hi there, I am [Osgood](https://www.osgoodgunawan.me/) 👋
+### Hi there, I am [Osgood](https://www.osgood1024.com/) 👋
 
 **Full-Stack Software Engineer | Javascript | Java | Ruby | React.js | Ruby on Rails | Web Developer | UX & UI Designer | ETL Developer | Data Integration**
 
