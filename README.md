@@ -13,7 +13,7 @@
 
 
 
-* ⚡ Fun fact: When I am free, you can find me playing basketball, chess, running, dancing, singing, cooking and reading entrepreneurship/tech related articles. Also don't forget Programming :wink:
+* ⚡ Fun fact: When I am free, you can find me playing basketball, chess, running, golf, and reading. Also don't forget Programming :wink:
  
 * 🌱 I’m currently learning Algorithms, Data Structures, System Design , React Ecosystem, and more...
 
